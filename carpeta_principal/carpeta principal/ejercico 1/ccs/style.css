@@ -1,0 +1,46 @@
+div { 
+    
+    position: absolute; 
+    border:1px solid #df24e642; 
+ }
+ div.bloque1 {   
+  background-color:#a51717; 
+width:353px; 
+height:113px; 
+  top: 95px; 
+ left:56px; 
+z-index:800; 
+}
+div.bloque2 { 
+  background-color: #1a3870; 
+height:297px; 
+height:387px; 
+  top: 40px; 
+  left:81px;
+z-index:40; 
+} 
+div.bloque3 { 
+  background-color:  #503dbb; 
+width: 397px; 
+height:116px; 
+  top: 374px; 
+  left:20px; 
+z-index: 20; 
+} 
+div.bloque2 div.hijo2 { 
+   background-color:#940e0e; 
+width: 143px; 
+height:226px; 
+  top:33px; 
+  left: 20px; 
+z-index:30; 
+} 
+
+div.bloque2 div.hijo2 { 
+  background-color:#ffb9b9; 
+width: 143px; 
+height:226px; 
+  top: 278px; 
+  left: 105px; 
+z-index: 20;  
+}
